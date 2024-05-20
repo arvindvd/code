@@ -2,7 +2,7 @@
 var xhr = new XMLHttpRequest();
 
 
-xhr.open ('PUT', 'https://thetestingworldapi.com/api/studentsDetails/4165326', true);
+xhr.open ('PUT', 'https://jsonplaceholder.typicode.com/users/1', true);
 {
   "id": 1,
   "first_name": "Arving",
